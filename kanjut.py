@@ -1,15 +1,12 @@
 #!usr/bin/python2.7
 # coding=utf-8
 
-#######################################################
-# Name           : Multi BF (MBF) <cookie method>     #
-# File           : run.py                             #
-# Author         : DulLah                             #
-# Github         : https://github.com/dz-id           #
-# Facebook       : https://www.facebook.com/dulahz    #
-# Telegram       : https://t.me/unikers               #
-# Python version : 2.7                                #
-#######################################################
+=================================================
+= Name           : Multi BF (MBF)               =  
+= File           : run.py                       =     
+= Author         : Andree.                      =      
+= Python version : 2.7                          =      
+=================================================
 
 import os, sys, shutil
 from app import main as app
